@@ -11,7 +11,7 @@ I'm an incoming third year undergraduate at the [University of California San Di
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as a Finance Associate.
   - ✏️ [CSforeach](https://csforeach.ucsd.edu/), a computer science outreach organization as a Curriculum Developer.
 
-- In my free time, I'm an avid dancer with the (kunFUSION Dance Team)[https://www.instagram.com/kunfusiondance/?hl=en], (hobbyist chess player)[https://lichess.org/@/TheAYU], (reader)[https://www.goodreads.com/alexanderyu], and coffee drinker!
+- In my free time, I'm an avid dancer with the [kunFUSION Dance Team](https://www.instagram.com/kunfusiondance/?hl=en), [hobbyist chess player](https://lichess.org/@/TheAYU), [reader](https://www.goodreads.com/alexanderyu), and coffee drinker!
 - Contact me on my [Linkedin](https://www.linkedin.com/in/alexander-w-yu/), or [email me](mailto:1alexander.yu@gmail.com).
 - Check me out on my [website](https://0AYU0.github.io/) (In Progress 😊)!
 
