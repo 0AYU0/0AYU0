@@ -4,7 +4,7 @@ I'm an incoming third year undergraduate at the [University of California San Di
 
 - I'm currently working at:
   - 📊 [Temple HCI Lab](http://stevemacn.github.io/people/) on CoBoards, a system augmenting traditional digital whiteboards by repurposing template-collected design data
-  - 💻 [UCSD CSE Department](https://cse.ucsd.edu/) as an instructional assistant for an introductory computer science course (CSE 8A) under [Dr. Gerald Soosai Raj](https://geraldsoosairaj.github.io/) and [Dr. Sorin Lerner](https://cseweb.ucsd.edu/~lerner/)
+  - 💻 [UCSD CSE Department](https://cse.ucsd.edu/) as an instructional assistant for an undergraduate systems programming course (CSE 30) under [Dr. Gerald Soosai Raj](https://geraldsoosairaj.github.io/)
 
 - I previously was at:
   - 📞 [Kastner Research Group](https://kastner.ucsd.edu/), developing MedECC, a telemedicine application allowing clinicians to better scale resources and researching challenges in Sub-Saharan healthcare referral systems
