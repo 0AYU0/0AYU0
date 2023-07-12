@@ -3,10 +3,11 @@
 I'm an incoming third year undergraduate at the [University of California San Diego](https://ucsd.edu/) studying computer science!  I'm passionate about Human-Computer Interaction, Programming Languages, Computer Science Education and learning new technologies in order to empower communities worldwide, supporting students and novices across various task domains.  
 
 - I'm currently working at:
+  - 🦉[Samsara](https://www.samsara.com/) as a software engineering intern on the Safety Applications team in Summer 2023
   - 📊 [Temple HCI Lab](http://stevemacn.github.io/people/) on CoBoards, a system augmenting traditional digital whiteboards by repurposing template-collected design data
 
 - In the future, I'll be at
-  - 🦉[Samsara](https://www.samsara.com/) as a software engineering intern on the Safety team in Summer 2023
+  - 🦉[Mathworks](https://www.mathworks.com/) as a software engineering intern in Fall 2023
 
 - I previously was at:
   - 📞 [Kastner Research Group](https://kastner.ucsd.edu/), developing MedECC, a telemedicine application allowing clinicians to better scale resources, and researching challenges in Sub-Saharan healthcare referral systems
