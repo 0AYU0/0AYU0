@@ -6,9 +6,6 @@ I'm an incoming third year undergraduate at the [University of California San Di
   - 🦉[Samsara](https://www.samsara.com/) as a software engineering intern on the Safety Applications team in Summer 2023
   - 📊 [Temple HCI Lab](http://stevemacn.github.io/people/) on CoBoards, a system augmenting traditional digital whiteboards by repurposing template-collected design data
 
-- In the future, I'll be at
-  - 🦉[Mathworks](https://www.mathworks.com/) as a software engineering intern in Fall 2023
-
 - I previously was at:
   - 📞 [Kastner Research Group](https://kastner.ucsd.edu/), developing MedECC, a telemedicine application allowing clinicians to better scale resources, and researching challenges in Sub-Saharan healthcare referral systems
   - 🔷 [Association for Computing Machinery (ACM) at UCSD](https://acmucsd.com/), a computing org at UC San Diego as a Finance Associate, and ACM Dimensions, a upcoming conference showcasing the various facets of technology, as a developer and logistics lead
